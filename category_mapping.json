@@ -1,0 +1,25 @@
+[
+  {
+    "source_group": "Inflow",
+    "source_category": "Ready to Assign",
+    "monarch_group": "Income",
+    "monarch_category": "Paycheck",
+    "tags": [],
+    "memo": ""
+  },
+  {
+    "source_group": "🛒 VARIABLE",
+    "source_category": "🍎 Groceries",
+    "monarch_group": "Food & Dining",
+    "monarch_category": "Groceries",
+    "tags": [],
+    "memo": ""
+  },
+  {
+    "source_group": "🎁 GIFTS",
+    "source_category": "🎁 Gifts (Joshua)",
+    "monarch_group": "Savings Categories",
+    "monarch_category": "Gifts",
+    "tags": ["Joshua"]
+  }
+]
